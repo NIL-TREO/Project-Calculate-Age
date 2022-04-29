@@ -35,6 +35,5 @@ public class Main {
 
 		// Console output of actual age
 		System.out.println("\nThe person is " + CalculateAge.ageInYears(birthDate, now) + " years old.");
-
 	}
 }
